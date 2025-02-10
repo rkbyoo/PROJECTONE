@@ -1,1 +1,1 @@
-learning frontend of web dev using HTML,CSS and JAVA
+learning frontend of web dev using HTML,CSS and JS
